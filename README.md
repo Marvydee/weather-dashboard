@@ -30,3 +30,5 @@ REACT_APP_WEATHER_KEY=your_api_key_here
 Get a free key at [openweathermap.org](https://openweathermap.org/api)
 
 ## Live
+
+https://weathertell.pages.dev/
